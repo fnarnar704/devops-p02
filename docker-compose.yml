@@ -3,7 +3,7 @@
 services:
   galeria:
     container_name: galeria
-    image: fnarnar704/galeria:latest
+    image: francisconaranjo/galeria:latest
     ports:
       - 8000:5000
     restart: always
